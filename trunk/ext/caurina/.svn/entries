@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="344"
+   name=""
+   committed-date="2007-12-19T01:32:33.650064Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/ext/caurina"
+   last-author="cerupcat"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   name="transitions"
+   kind="dir"/>
+</wc-entries>

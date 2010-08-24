@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="147"
+   name=""
+   committed-date="2007-11-02T02:47:41.776902Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/src/deploy/local/3D"
+   last-author="naturalui"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="147"
+   name="xwingskin.jpg"
+   text-time="2009-08-25T17:26:15.234375Z"
+   committed-date="2007-11-02T02:47:41.776902Z"
+   checksum="323b2c99b1309fb9ea64fea6a13613c0"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:26:14.453125Z"/>
+<entry
+   committed-rev="147"
+   name="mycone.dae"
+   text-time="2009-08-25T17:26:15.250000Z"
+   committed-date="2007-11-02T02:47:41.776902Z"
+   checksum="018bed99394d4542e271d887d02b0f9b"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:26:14.593750Z"/>
+<entry
+   committed-rev="147"
+   name="xwing.dae"
+   text-time="2009-08-25T17:26:15.265625Z"
+   committed-date="2007-11-02T02:47:41.776902Z"
+   checksum="948df278ac1c93796a951a4210096e00"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:26:15.218750Z"/>
+</wc-entries>

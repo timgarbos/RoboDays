@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="355"
+   name=""
+   committed-date="2008-02-11T20:10:28.794205Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/ext/Box2D/Dynamics/Contacts"
+   last-author="dwallin33"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="355"
+   name="b2ContactConstraintPoint.as"
+   text-time="2009-08-25T17:23:37.890625Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="b9c7178d30f89d9d89081338d6a30272"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.531250Z"/>
+<entry
+   committed-rev="355"
+   name="b2Contact.as"
+   text-time="2009-08-25T17:23:37.906250Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="d3304e90a1e9d3bc67f1524d80287580"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.593750Z"/>
+<entry
+   committed-rev="355"
+   name="b2CircleContact.as"
+   text-time="2009-08-25T17:23:37.906250Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="d05becf30c4977de638dd8fc136920c1"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.609375Z"/>
+<entry
+   committed-rev="355"
+   name="b2PolyContact.as"
+   text-time="2009-08-25T17:23:37.921875Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="9743a622af35ddf3823688ac837520b6"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.609375Z"/>
+<entry
+   committed-rev="355"
+   name="b2ContactRegister.as"
+   text-time="2009-08-25T17:23:37.937500Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="0767dda8c781253e300cffcc16bd9cd9"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.656250Z"/>
+<entry
+   committed-rev="355"
+   name="b2ContactConstraint.as"
+   text-time="2009-08-25T17:23:37.953125Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="6fb4fd6c33b1f6794bf863d5c17cb6e3"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.671875Z"/>
+<entry
+   committed-rev="355"
+   name="b2ContactNode.as"
+   text-time="2009-08-25T17:23:37.953125Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="795f81d86a49d312152f17ed2c756c7d"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.671875Z"/>
+<entry
+   committed-rev="355"
+   name="b2PolyAndCircleContact.as"
+   text-time="2009-08-25T17:23:37.968750Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="5c04fb4d525a58483681cb44d0afd6ad"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.687500Z"/>
+<entry
+   committed-rev="355"
+   name="b2NullContact.as"
+   text-time="2009-08-25T17:23:38.000000Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="6545db3454554164f49f5361af90d065"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.687500Z"/>
+<entry
+   committed-rev="355"
+   name="b2ContactSolver.as"
+   text-time="2009-08-25T17:23:38.015625Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="1d7e3bcfefc1491816f2ae29afbdc676"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.859375Z"/>
+<entry
+   committed-rev="355"
+   name="b2Conservative.as"
+   text-time="2009-08-25T17:23:38.062500Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="5f250cb2f639ff1cbdcc3b6c4d46a26d"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.875000Z"/>
+</wc-entries>

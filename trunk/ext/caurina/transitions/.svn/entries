@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="344"
+   name=""
+   committed-date="2007-12-19T01:32:33.650064Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/ext/caurina/transitions"
+   last-author="cerupcat"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="344"
+   name="SpecialPropertyModifier.as"
+   text-time="2009-08-25T17:23:33.078125Z"
+   committed-date="2007-12-19T01:32:33.650064Z"
+   checksum="b90363d5f2a761589f58308d81acf98d"
+   last-author="cerupcat"
+   kind="file"
+   prop-time="2009-08-25T17:23:31.593750Z"/>
+<entry
+   committed-rev="344"
+   name="SpecialProperty.as"
+   text-time="2009-08-25T17:23:33.093750Z"
+   committed-date="2007-12-19T01:32:33.650064Z"
+   checksum="3411c31116f1d9684a71e37b7422af74"
+   last-author="cerupcat"
+   kind="file"
+   prop-time="2009-08-25T17:23:31.593750Z"/>
+<entry
+   committed-rev="344"
+   name="AuxFunctions.as"
+   text-time="2009-08-25T17:23:33.109375Z"
+   committed-date="2007-12-19T01:32:33.650064Z"
+   checksum="fe10ca16e1bef62d33c2900a6bc55b37"
+   last-author="cerupcat"
+   kind="file"
+   prop-time="2009-08-25T17:23:31.843750Z"/>
+<entry
+   committed-rev="344"
+   name="Equations.as"
+   text-time="2009-08-25T17:23:33.125000Z"
+   committed-date="2007-12-19T01:32:33.650064Z"
+   checksum="8ab92e3ade729bbd9c9e67d7c9bce933"
+   last-author="cerupcat"
+   kind="file"
+   prop-time="2009-08-25T17:23:32.000000Z"/>
+<entry
+   committed-rev="344"
+   name="TweenListObj.as"
+   text-time="2009-08-25T17:23:33.140625Z"
+   committed-date="2007-12-19T01:32:33.650064Z"
+   checksum="a8f44eff04a6892600caa85963b54994"
+   last-author="cerupcat"
+   kind="file"
+   prop-time="2009-08-25T17:23:32.140625Z"/>
+<entry
+   committed-rev="344"
+   name="Tweener.as"
+   text-time="2009-08-25T17:23:33.156250Z"
+   committed-date="2007-12-19T01:32:33.650064Z"
+   checksum="15e1ba654d3a77603c898b3792b1a3ec"
+   last-author="cerupcat"
+   kind="file"
+   prop-time="2009-08-25T17:23:32.375000Z"/>
+<entry
+   name="properties"
+   kind="dir"/>
+<entry
+   committed-rev="344"
+   name="PropertyInfoObj.as"
+   text-time="2009-08-25T17:23:33.156250Z"
+   committed-date="2007-12-19T01:32:33.650064Z"
+   checksum="5e934e9336a8ae66484a86e9091d15a1"
+   last-author="cerupcat"
+   kind="file"
+   prop-time="2009-08-25T17:23:33.062500Z"/>
+<entry
+   committed-rev="344"
+   name="SpecialPropertySplitter.as"
+   text-time="2009-08-25T17:23:33.171875Z"
+   committed-date="2007-12-19T01:32:33.650064Z"
+   checksum="d0fdf4b0433897657a99980faa3f76ec"
+   last-author="cerupcat"
+   kind="file"
+   prop-time="2009-08-25T17:23:33.062500Z"/>
+</wc-entries>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="313"
+   name=""
+   committed-date="2007-12-01T18:48:27.332965Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/src/deploy/www/shapes"
+   last-author="naturalui"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="313"
+   name="Shape1.swf"
+   text-time="2009-08-25T17:25:52.609375Z"
+   committed-date="2007-12-01T18:48:27.332965Z"
+   checksum="6dc510de43be9db12b142367ee76cdc0"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:51.531250Z"/>
+<entry
+   committed-rev="297"
+   name="Shape10.swf"
+   text-time="2009-08-25T17:25:52.640625Z"
+   committed-date="2007-11-30T16:55:46.660718Z"
+   checksum="29d664661e552808e39849614726cbea"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:51.562500Z"/>
+<entry
+   committed-rev="290"
+   name="Shape2.swf"
+   text-time="2009-08-25T17:25:52.687500Z"
+   committed-date="2007-11-29T23:12:06.642510Z"
+   checksum="9888461c54f5bcab0fdeaf68d76e8b1b"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:51.578125Z"/>
+<entry
+   committed-rev="297"
+   name="Shape11.swf"
+   text-time="2009-08-25T17:25:52.703125Z"
+   committed-date="2007-11-30T16:55:46.660718Z"
+   checksum="b50c504d7414f5a80ba777d9172c0505"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:51.593750Z"/>
+<entry
+   committed-rev="290"
+   name="Shape3.swf"
+   text-time="2009-08-25T17:25:52.718750Z"
+   committed-date="2007-11-29T23:12:06.642510Z"
+   checksum="0d6f7f58ac4cac2c164803e3b9cc8225"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:51.593750Z"/>
+<entry
+   committed-rev="297"
+   name="Shape12.swf"
+   text-time="2009-08-25T17:25:52.718750Z"
+   committed-date="2007-11-30T16:55:46.660718Z"
+   checksum="02dfa4ba738107848f1a9c8b8a7f75dd"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:51.609375Z"/>
+<entry
+   committed-rev="297"
+   name="Shape4.swf"
+   text-time="2009-08-25T17:25:52.734375Z"
+   committed-date="2007-11-30T16:55:46.660718Z"
+   checksum="2588bb75faef5ea59ec92a94a4f058a6"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:51.625000Z"/>
+<entry
+   committed-rev="297"
+   name="Shape5.swf"
+   text-time="2009-08-25T17:25:52.750000Z"
+   committed-date="2007-11-30T16:55:46.660718Z"
+   checksum="2a424e5bb5672e44b1edcfc36d75ed98"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:51.640625Z"/>
+<entry
+   committed-rev="297"
+   name="Shape6.swf"
+   text-time="2009-08-25T17:25:52.765625Z"
+   committed-date="2007-11-30T16:55:46.660718Z"
+   checksum="ef2d579def6c7c3deab8c810749cd422"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:51.640625Z"/>
+<entry
+   committed-rev="297"
+   name="Shape7.swf"
+   text-time="2009-08-25T17:25:52.781250Z"
+   committed-date="2007-11-30T16:55:46.660718Z"
+   checksum="a7e52c2b78ffe78f8135b92db9937495"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:51.796875Z"/>
+<entry
+   committed-rev="297"
+   name="Shape8.swf"
+   text-time="2009-08-25T17:25:52.781250Z"
+   committed-date="2007-11-30T16:55:46.660718Z"
+   checksum="030ae19871c4d4408b992fce716ec228"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:52.531250Z"/>
+<entry
+   committed-rev="297"
+   name="Shape9.swf"
+   text-time="2009-08-25T17:25:52.796875Z"
+   committed-date="2007-11-30T16:55:46.660718Z"
+   checksum="4e35c1c146e2b4dd1393e73814ee21a6"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:52.562500Z"/>
+</wc-entries>

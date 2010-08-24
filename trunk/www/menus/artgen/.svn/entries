@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="313"
+   name=""
+   committed-date="2007-12-01T18:48:27.332965Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/src/deploy/www/menus/artgen"
+   last-author="naturalui"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="313"
+   name="vert_menu.xml"
+   text-time="2009-08-25T17:25:54.281250Z"
+   committed-date="2007-12-01T18:48:27.332965Z"
+   checksum="b6d8c36443d15a8a687eba512c619671"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:53.703125Z"/>
+<entry
+   committed-rev="313"
+   name="up.png"
+   text-time="2009-08-25T17:25:54.296875Z"
+   committed-date="2007-12-01T18:48:27.332965Z"
+   checksum="4cd032960b864c7314bdcfb1d4f9c1fb"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:53.718750Z"/>
+<entry
+   committed-rev="313"
+   name="down.png"
+   text-time="2009-08-25T17:25:54.359375Z"
+   committed-date="2007-12-01T18:48:27.332965Z"
+   checksum="febf75a05a6a7ae7e2cd0a4544cdd952"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:53.734375Z"/>
+<entry
+   committed-rev="313"
+   name="button_template.psd"
+   text-time="2009-08-25T17:25:54.375000Z"
+   committed-date="2007-12-01T18:48:27.332965Z"
+   checksum="7a16a1d75bdcf8d41cbe828726e6fa7d"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:54.203125Z"/>
+<entry
+   committed-rev="313"
+   name="over.png"
+   text-time="2009-08-25T17:25:54.578125Z"
+   committed-date="2007-12-01T18:48:27.332965Z"
+   checksum="6b9b73bfb307b142a19f41af8fd71db3"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:54.265625Z"/>
+</wc-entries>

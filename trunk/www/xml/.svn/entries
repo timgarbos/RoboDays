@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="360"
+   name=""
+   committed-date="2008-02-26T23:07:50.838567Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/src/deploy/www/xml"
+   last-author="dwallin33"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="115"
+   name="tableData.xml"
+   text-time="2009-08-25T17:25:50.015625Z"
+   committed-date="2007-10-27T17:49:21.704389Z"
+   checksum="e97f4b00289bcf0cb847429815545b30"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:46.187500Z"/>
+<entry
+   committed-rev="115"
+   name="config.xml"
+   text-time="2009-08-25T17:25:50.062500Z"
+   committed-date="2007-10-27T17:49:21.704389Z"
+   checksum="d98b4e99a9784b33e5a24d3c34c10772"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:46.234375Z"/>
+<entry
+   committed-rev="281"
+   name="dictionary.xml"
+   text-time="2009-08-25T17:25:50.093750Z"
+   committed-date="2007-11-28T12:31:14.546191Z"
+   checksum="2afa87647fc6c21142b23657a2ab761d"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:46.468750Z"/>
+<entry
+   committed-rev="115"
+   name="scaletest.xml"
+   text-time="2009-08-25T17:25:50.140625Z"
+   committed-date="2007-10-27T17:49:21.704389Z"
+   checksum="a88d5ec25e0ad39f4d94f4e73355b661"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:46.968750Z"/>
+<entry
+   committed-rev="115"
+   name="simulatorTestData.xml"
+   text-time="2009-08-25T17:25:50.171875Z"
+   committed-date="2007-10-27T17:49:21.704389Z"
+   checksum="309d64d08f2dad3e57ebb192270b8365"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:47.171875Z"/>
+<entry
+   committed-rev="360"
+   name="applist.xml"
+   text-time="2009-08-25T17:25:50.218750Z"
+   committed-date="2008-02-26T23:07:50.838567Z"
+   checksum="e3aec214b57901850e3314c972dcb9b4"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:25:47.187500Z"/>
+<entry
+   committed-rev="209"
+   name="test.xml"
+   text-time="2009-08-25T17:25:50.265625Z"
+   committed-date="2007-11-03T14:59:14.049326Z"
+   checksum="67332869594fbbcbf8fa0258e48e2376"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:49.937500Z"/>
+</wc-entries>

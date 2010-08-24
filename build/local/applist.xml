@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<apploader>
+  <apps>
+    <app>
+      <name> Sjov </name>
+	  <defaultX>875</defaultX>
+	  <defaultY>668</defaultY>
+      <url></url>
+      <apps>
+        <app>
+          <name>Grey Lines</name>
+          <url>GreyLines.swf</url>
+        </app>
+        <app>
+          <name>Rings</name>
+          <url>Rings.swf</url>
+        </app>
+        <app>
+          <name>Crates</name>
+          <url>CrateTest.swf</url>
+        </app>
+		<app>
+          <name>Physics</name>
+          <url>Physics.swf</url>
+        </app>
+        <app>
+          <name>Explosions</name>
+          <url>TouchExplosion.swf</url>
+        </app>
+        <app>
+          <name>Vines</name>
+          <url>touchVines.swf</url>
+        </app>
+        <app>
+          <name>Ripples</name>
+          <url>Ripples.swf</url>
+        </app>
+        <!--<app>
+          <name>Fire</name>
+          <url>Fire.swf</url>
+        </app>-->
+        <app>
+          <name>Tank</name>
+          <url>Tank.swf</url>
+        </app>
+        <app>
+          <name>Paint</name>
+          <url>SimpleDraw.swf</url>
+        </app>
+		
+     
+        <app>
+          <name>Piano</name>
+          <url>Piano.swf</url>
+        </app>
+        <app>
+          <name>Multikey</name>
+          <url>MultiKey.swf</url>
+        </app>
+        <app>
+          <name>Puzzle</name>
+          <url>Puzzle.swf</url>
+        </app>
+        <app>
+          <name>Google Maps</name>
+          <url>googleMaps_intro.swf</url>
+        </app>
+        <app>
+          <name>Look Around</name>
+          <url>Squeegee.swf</url>
+        </app>
+   
+        <app>
+          <name>Gallery</name>
+          <url>Photo.swf</url>
+          <parameter>local/Gallery/RoboCluster/</parameter>
+          <apps>
+            <app>
+              <name>Mixed</name>
+              <url>Photo.swf</url>
+              <parameter>local/Gallery/RoboCluster/</parameter>
+            </app>
+            <app>
+              <name>RoboDays Festival</name>
+              <url>Photo.swf</url>
+              <parameter>local/Gallery/RoboCluster/robodays/</parameter>
+            </app>
+          </apps>
+        </app>
+		
+      </apps>
+    </app>
+	 
+    <!--<app>
+      <name>Options</name>
+      <url>
+      </url>
+      <apps>
+        <app>
+          <name>Exit</name>
+          <url>%fscommand%</url>
+          <parameter>quit</parameter>
+        </app>
+        <app>
+          <name>Fullscreen</name>
+          <url>%fscommand%</url>
+          <parameter>fullscreen;true</parameter>
+        </app>
+        <app>
+          <name>Windowed</name>
+          <url>%fscommand%</url>
+          <parameter>fullscreen;false</parameter>
+        </app>
+        <app>
+          <name>Update gallery</name>
+          <url>%fscommand%</url>
+          <parameter>exec;../FoldersToXML/RobotFoldersToXml.exe silent</parameter>
+        </app>
+        <app>
+          <name>Restart</name>
+          <url>%fscommand%</url>
+          <parameter>%restart%</parameter>
+        </app>
+      </apps>
+    </app>-->
+    <!--<app>
+		 	  <defaultX>480</defaultX>
+	  <defaultY>668</defaultY>
+      <name>How to use</name>
+      <url>Photo.swf</url>
+      <parameter>local/howto/</parameter>
+    </app>-->
+	 <app>
+	 	  <defaultX>50</defaultX>
+	  <defaultY>668</defaultY>
+	  <name>Kontakt</name>
+	  <url>Photo.swf</url>
+	  <parameter>local/contact/</parameter>
+	</app>
+		<app>
+			  <defaultX>490</defaultX>
+	  <defaultY>200</defaultY>
+      <name>  Behandlingsforlob  </name>
+		<!--<image>local/buttons/behandling.png</image>-->
+      <url>Behandling.swf</url>
+      <parameter></parameter>
+    </app>
+	<app>
+      <name>Om MedicNet</name>
+	  			  <defaultX>490</defaultX>
+	  <defaultY>450</defaultY>
+      <url>Photo.swf</url>
+      <parameter>local/omMedicNet/</parameter>
+    </app>
+	 <app>
+	  <name>Om RoboCluster</name>
+	  	  			  <defaultX>290</defaultX>
+	  <defaultY>450</defaultY>
+	  <url>Photo.swf</url>
+	  <parameter>local/omRoboCluster/</parameter>
+	</app>
+		 <app>
+	  <name>Projekter (English)</name>
+	  	  	  			  <defaultX>690</defaultX>
+	  <defaultY>450</defaultY>
+	  <url>Photo.swf</url>
+	  <parameter>local/omProjekter/</parameter>
+	</app>
+	
+  </apps>
+</apploader>

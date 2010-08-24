@@ -1,0 +1,14 @@
+<presentationLoader> <presentations> 
+<slideshow name="Om RoboCluster">
+<slide>slide/Slide1.jpg</slide>
+<slide>slide/Slide2.jpg</slide>
+<slide>slide/Slide3.jpg</slide>
+<slide>slide/Slide4.jpg</slide>
+<slide>slide/Slide5.jpg</slide>
+<slide>slide/Slide6.jpg</slide>
+<slide>slide/Slide7.jpg</slide>
+<slide>slide/Slide8.jpg</slide>
+<slide>slide/Slide9.jpg</slide>
+<slide>slide/Slide10.jpg</slide>
+</slideshow >
+</presentations> </presentationLoader> 

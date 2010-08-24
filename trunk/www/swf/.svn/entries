@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="314"
+   name=""
+   committed-date="2007-12-01T18:49:30.964512Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/src/deploy/www/swf"
+   last-author="naturalui"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="181"
+   name="flashpaper.swf"
+   text-time="2009-08-25T17:25:44.921875Z"
+   committed-date="2007-11-02T11:54:24.207900Z"
+   checksum="144f6655739fbe238aa3f4cfa915c7b9"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:44.890625Z"/>
+</wc-entries>

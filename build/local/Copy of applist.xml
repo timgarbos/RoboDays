@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apploader>
+			<apps>
+				<app>
+					<name> Fun </name>
+					<url>.nothingswf</url>
+					<apps>
+					<app>
+						<name>Grey Lines</name>
+						<url>GreyLines.swf</url>
+					</app>
+					
+					<app>
+						<name>Rings</name>
+						<url>Rings.swf</url>
+					</app>
+					<app>
+						<name>Crates</name>
+						<url>CrateTest.swf</url>
+					</app>
+					<app>
+						<name>Explosions</name>
+						<url>TouchExplosion.swf</url>
+					</app>
+					<app>
+						<name>Vines</name>
+						<url>touchVines.swf</url>
+					</app>
+					<app>
+						<name>Ripples</name>
+						<url>Ripples.swf</url>
+					</app>
+					<app>
+						<name>Fire</name>
+						<url>Fire.swf</url>
+					</app>
+					<app>
+						<name>Tank</name>
+						<url>Tank.swf</url>
+					</app>
+				
+					<app>
+						<name>Paint</name>
+						<url>Paint.swf</url>
+					</app>
+				</apps>
+			</app>
+			
+			<app>
+				<name>Audio</name>
+				<url>nothing.swf</url>
+					<apps>
+				
+						<app>
+							<name>Piano</name>
+							<url>Piano.swf</url>
+						</app>
+							
+						
+						<app>
+							<name>Musical Squares</name>
+							<url>MusicalSquares.swf</url>
+						</app>
+						
+						<app>
+							<name>Turn Tables</name>
+							<url>Turntables.swf</url>
+						</app>
+						
+						
+					
+						
+						<app>
+							<name>Multikey</name>
+							<url>MultiKey.swf</url>
+						</app>
+						<app>
+							<name>Sequencer</name>
+							<url>AudioshapeSequencer.swf</url>
+						</app>
+					</apps>
+				</app>
+				<app>
+					<name>Multimedier</name>
+					<url></url>
+					<apps>
+						<app>
+							<name>Puzzle</name>
+							<url>Puzzle.swf</url>
+						</app>
+						<app>
+							<name>Google Maps</name>
+							<url>googleMaps_intro.swf</url>
+						</app>
+
+						<app>
+							<name>Look</name>
+							<url>Squeegee.swf</url>
+				
+						</app>	
+					</apps>
+				</app>
+				
+				
+				
+				
+				
+				<app>
+					<name>Gallery</name>
+					<url></url>
+					<apps>
+					
+						<app>
+							<name>UNF Camp 2009</name>
+							<url>Photo.swf</url>
+							<parameter>local/Gallery/UNF/</parameter>
+						</app>
+						<app>
+							<name>RoboDays 2009</name>
+							<url>Photo.swf</url>
+							<parameter>local/Gallery/RoboDays/</parameter>
+						</app>
+						<app>
+							<name>RoboCluster</name>
+							<url>Photo.swf</url>
+							<parameter>local/Gallery/RoboCluster/</parameter>
+						</app>
+					</apps>
+				</app>
+					
+								
+				
+				<!--<app>
+					<name>Pong</name>
+					<url>Pong.swf</url>
+				</app>-->
+				<!--<app>
+					<name>Fluids</name>
+					<url>Fluids.swf</url>
+				</app>-->
+				<!--<app>
+					<name>Crayon</name>
+					<url>CrayonPhysics.swf</url>
+				</app>-->
+			</apps>		
+</apploader>

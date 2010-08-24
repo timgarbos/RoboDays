@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="179"
+   name=""
+   committed-date="2007-11-02T10:41:44.134213Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/src/deploy/local/video"
+   last-author="naturalui"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="179"
+   name="eye.flv"
+   text-time="2009-08-25T17:26:13.406250Z"
+   committed-date="2007-11-02T10:41:44.134213Z"
+   checksum="16c9de5837f1f644f322175004c0a05d"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:26:13.328125Z"/>
+</wc-entries>

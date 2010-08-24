@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="227"
+   name=""
+   committed-date="2007-11-08T07:52:54.416206Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/ext/com"
+   last-author="naturalui"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+</wc-entries>

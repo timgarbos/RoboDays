@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="224"
+   name=""
+   committed-date="2007-11-06T12:16:56.177993Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/src/deploy/local"
+   last-author="naturalui"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="152"
+   name="3Dobjects.xml"
+   text-time="2009-08-25T17:26:15.328125Z"
+   committed-date="2007-11-02T03:42:08.998898Z"
+   checksum="619232bb6e68f3d129b23dfbe381f2cb"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:26:07.468750Z"/>
+<entry
+   name="audio"
+   kind="dir"/>
+<entry
+   name="image"
+   kind="dir"/>
+<entry
+   committed-rev="151"
+   name="images.xml"
+   text-time="2009-08-25T17:26:15.328125Z"
+   committed-date="2007-11-02T03:41:04.070163Z"
+   checksum="c843b3a31ced38da6758cf02cdbf40fa"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:26:10.687500Z"/>
+<entry
+   name="video"
+   kind="dir"/>
+<entry
+   name="3D"
+   kind="dir"/>
+<entry
+   committed-rev="180"
+   name="videos.xml"
+   text-time="2009-08-25T17:26:15.343750Z"
+   committed-date="2007-11-02T10:42:09.999933Z"
+   checksum="6eda3530962fef4ca61644b0b970ca4d"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:26:15.296875Z"/>
+<entry
+   committed-rev="145"
+   name="reload.bat"
+   text-time="2009-08-25T17:26:15.359375Z"
+   committed-date="2007-11-02T02:46:19.402501Z"
+   checksum="98be3f2c3a43fc8475569180dce89239"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:26:15.312500Z"/>
+</wc-entries>

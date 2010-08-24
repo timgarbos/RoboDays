@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="355"
+   name=""
+   committed-date="2008-02-11T20:10:28.794205Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/ext/Box2D/Collision"
+   last-author="dwallin33"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="355"
+   name="b2Manifold.as"
+   text-time="2009-08-25T17:23:40.328125Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="186031bbcaea303ea110adaf94fd0b4f"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.328125Z"/>
+<entry
+   committed-rev="355"
+   name="Features.as"
+   text-time="2009-08-25T17:23:40.375000Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="0963e61a425dc66b18cb229e3bf7d96d"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.390625Z"/>
+<entry
+   committed-rev="355"
+   name="b2Distance.as"
+   text-time="2009-08-25T17:23:40.343750Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="9dc7660887e9f354922a61d6024adb91"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.359375Z"/>
+<entry
+   committed-rev="355"
+   name="b2Pair.as"
+   text-time="2009-08-25T17:23:40.406250Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="9094b52d074ea1f3f012aa88257c51bf"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.500000Z"/>
+<entry
+   committed-rev="355"
+   name="b2Collision.as"
+   text-time="2009-08-25T17:23:40.390625Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="6e48250074ff0b3dfcb7191a563c5e39"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.453125Z"/>
+<entry
+   name="Shapes"
+   kind="dir"/>
+<entry
+   committed-rev="355"
+   name="b2BufferedPair.as"
+   text-time="2009-08-25T17:23:40.421875Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="de0b32e8760a4c53d30a90efdfcc12c6"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.906250Z"/>
+<entry
+   committed-rev="355"
+   name="ClipVertex.as"
+   text-time="2009-08-25T17:23:40.437500Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="d3840dc223797693bfdb9c7d11d7df84"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.906250Z"/>
+<entry
+   committed-rev="355"
+   name="b2OBB.as"
+   text-time="2009-08-25T17:23:40.453125Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="fe4d77bf316c240a0eec21fe4e90ed84"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.921875Z"/>
+<entry
+   committed-rev="355"
+   name="b2ContactPoint.as"
+   text-time="2009-08-25T17:23:40.468750Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="0a65bc58aac5a429a42a49da89b78b9f"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.921875Z"/>
+<entry
+   committed-rev="355"
+   name="b2Bound.as"
+   text-time="2009-08-25T17:23:40.484375Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="802e906b23d122480fc8496c4c7c3f7c"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.937500Z"/>
+<entry
+   committed-rev="355"
+   name="b2ContactID.as"
+   text-time="2009-08-25T17:23:40.546875Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="f2096a3e59619cf13679ba8bd742f2cf"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:40.078125Z"/>
+<entry
+   committed-rev="355"
+   name="b2PairCallback.as"
+   text-time="2009-08-25T17:23:40.531250Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="bffbe36d8711d16305e5bb8739883bb4"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:40.062500Z"/>
+<entry
+   committed-rev="355"
+   name="b2BroadPhase.as"
+   text-time="2009-08-25T17:23:40.500000Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="008fcdf5b56f0584642cc8bd05e61abc"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:40.015625Z"/>
+<entry
+   committed-rev="355"
+   name="b2Proxy.as"
+   text-time="2009-08-25T17:23:40.562500Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="b3a89cb196c5816e73ea0bc9309ba042"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:40.093750Z"/>
+<entry
+   committed-rev="355"
+   name="b2AABB.as"
+   text-time="2009-08-25T17:23:40.593750Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="b7a0f43f0430698338490e2ee74ee95c"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:40.093750Z"/>
+<entry
+   committed-rev="355"
+   name="b2PairManager.as"
+   text-time="2009-08-25T17:23:40.609375Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="90f572e7d55a33751f95979b6fa4b726"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:40.140625Z"/>
+<entry
+   committed-rev="355"
+   name="b2BoundValues.as"
+   text-time="2009-08-25T17:23:40.640625Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="4b5b8f837258d155d530b7d82da5ba11"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:40.156250Z"/>
+</wc-entries>

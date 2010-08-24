@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="355"
+   name=""
+   committed-date="2008-02-11T20:10:28.794205Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/ext/Box2D/Common/Math"
+   last-author="dwallin33"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="355"
+   name="b2Math.as"
+   text-time="2009-08-25T17:23:38.796875Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="2094c862a79f765511e9143c068b7f1f"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:38.703125Z"/>
+<entry
+   committed-rev="355"
+   name="b2Vec2.as"
+   text-time="2009-08-25T17:23:38.890625Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="4f5cdb0bf4f4b334f9395e4916afeaa7"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:38.734375Z"/>
+<entry
+   committed-rev="355"
+   name="b2Mat22.as"
+   text-time="2009-08-25T17:23:38.921875Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="93541c2039480dd713dd36030d5a5d1a"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:38.765625Z"/>
+</wc-entries>

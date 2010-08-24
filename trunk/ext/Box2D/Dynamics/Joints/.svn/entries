@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="355"
+   name=""
+   committed-date="2008-02-11T20:10:28.794205Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/ext/Box2D/Dynamics/Joints"
+   last-author="dwallin33"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="355"
+   name="b2JointNode.as"
+   text-time="2009-08-25T17:23:37.093750Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="c60df8528c376b433871ffab5c4a4966"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:35.406250Z"/>
+<entry
+   committed-rev="355"
+   name="b2MouseJoint.as"
+   text-time="2009-08-25T17:23:37.125000Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="30aa7d086d57d0a7c7a021062736069d"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:35.437500Z"/>
+<entry
+   committed-rev="355"
+   name="b2PulleyJointDef.as"
+   text-time="2009-08-25T17:23:37.156250Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="1bd753e83e113c1358c7285b78ec0453"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:35.468750Z"/>
+<entry
+   committed-rev="355"
+   name="b2DistanceJoint.as"
+   text-time="2009-08-25T17:23:37.187500Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="6f4fa1e111b0c22a41bbe56e2489efbb"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:35.546875Z"/>
+<entry
+   committed-rev="355"
+   name="b2PrismaticJoint.as"
+   text-time="2009-08-25T17:23:37.218750Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="14f1851086ca1f2b2ba8733c570e8832"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:35.796875Z"/>
+<entry
+   committed-rev="355"
+   name="b2GearJointDef.as"
+   text-time="2009-08-25T17:23:37.250000Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="287d4f0f9fb6accd0c8abe2778f738b6"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:35.828125Z"/>
+<entry
+   committed-rev="355"
+   name="b2JointDef.as"
+   text-time="2009-08-25T17:23:37.281250Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="635e575ed2aa9b16a5a67b5db1f66649"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:35.843750Z"/>
+<entry
+   committed-rev="355"
+   name="b2Jacobian.as"
+   text-time="2009-08-25T17:23:37.312500Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="65fb56d9ff244f41311ed5a786706e59"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:35.953125Z"/>
+<entry
+   committed-rev="355"
+   name="b2RevoluteJoint.as"
+   text-time="2009-08-25T17:23:37.328125Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="996febe0e23160722069f1de1ec2f8c9"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:36.109375Z"/>
+<entry
+   committed-rev="355"
+   name="b2MouseJointDef.as"
+   text-time="2009-08-25T17:23:37.343750Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="1b78dcde921c0c641b1be28e06bb975d"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:36.125000Z"/>
+<entry
+   committed-rev="355"
+   name="b2DistanceJointDef.as"
+   text-time="2009-08-25T17:23:37.359375Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="73502190345268c1f783e28d92b10dca"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:36.171875Z"/>
+<entry
+   committed-rev="355"
+   name="b2PulleyJoint.as"
+   text-time="2009-08-25T17:23:37.375000Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="001a0c5149008e926f840ae2fcd59162"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:36.390625Z"/>
+<entry
+   committed-rev="355"
+   name="b2PrismaticJointDef.as"
+   text-time="2009-08-25T17:23:37.375000Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="c991f8e0c9a10e0888dcd18adabda7a1"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:36.187500Z"/>
+<entry
+   committed-rev="355"
+   name="b2GearJoint.as"
+   text-time="2009-08-25T17:23:37.390625Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="d2d2030054cd200c366cab0a9d998c87"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:36.671875Z"/>
+<entry
+   committed-rev="355"
+   name="b2Joint.as"
+   text-time="2009-08-25T17:23:37.406250Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="6a23ab82ebeb842f169f54e61cb84323"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.031250Z"/>
+<entry
+   committed-rev="355"
+   name="b2RevoluteJointDef.as"
+   text-time="2009-08-25T17:23:37.421875Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="d166919adf52f5a4dd9c58bab10ece78"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:37.046875Z"/>
+</wc-entries>

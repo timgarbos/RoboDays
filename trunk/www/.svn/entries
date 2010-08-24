@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="360"
+   name=""
+   committed-date="2008-02-26T23:07:50.838567Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/src/deploy/www"
+   last-author="dwallin33"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   name="mp3"
+   kind="dir"/>
+<entry
+   name="swf"
+   kind="dir"/>
+<entry
+   name="xml"
+   kind="dir"/>
+<entry
+   committed-rev="115"
+   name="Keyboard.fla"
+   text-time="2009-08-25T17:26:06.562500Z"
+   committed-date="2007-10-27T17:49:21.704389Z"
+   checksum="bf89fe405f5aa600a320f5e936fda9b2"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:51.437500Z"/>
+<entry
+   name="shapes"
+   kind="dir"/>
+<entry
+   committed-rev="115"
+   name="Brush.fla"
+   text-time="2009-08-25T17:26:06.578125Z"
+   committed-date="2007-10-27T17:49:21.704389Z"
+   checksum="8ccd786b2a0d6476eac39aa702ced2bc"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:53.031250Z"/>
+<entry
+   committed-rev="115"
+   name="Fiducials.fla"
+   text-time="2009-08-25T17:26:06.593750Z"
+   committed-date="2007-10-27T17:49:21.704389Z"
+   checksum="f1e649968561ed5a5a6d1b53bc8fe437"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:25:53.578125Z"/>
+<entry
+   name="menus"
+   kind="dir"/>
+<entry
+   name="img"
+   kind="dir"/>
+<entry
+   committed-rev="115"
+   name="Keyboard.swf"
+   text-time="2009-08-25T17:26:06.609375Z"
+   committed-date="2007-10-27T17:49:21.704389Z"
+   checksum="4f6d4f8f404b96f2571934ace7674e90"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:26:06.546875Z"/>
+</wc-entries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="224"
+   name=""
+   committed-date="2007-11-06T12:16:56.177993Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/src/deploy/local/image"
+   last-author="naturalui"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="224"
+   name="declaration.jpg"
+   text-time="2009-08-25T17:26:10.625000Z"
+   committed-date="2007-11-06T12:16:56.177993Z"
+   checksum="b3812c88671e63a89468c78258db920d"
+   last-author="naturalui"
+   kind="file"
+   prop-time="2009-08-25T17:26:10.562500Z"/>
+</wc-entries>

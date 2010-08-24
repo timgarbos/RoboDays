@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="358"
+   name=""
+   committed-date="2008-02-21T18:31:59.557927Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/ext/Box2D"
+   last-author="dwallin33"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   name="Dynamics"
+   kind="dir"/>
+<entry
+   name="Common"
+   kind="dir"/>
+<entry
+   name="Collision"
+   kind="dir"/>
+</wc-entries>

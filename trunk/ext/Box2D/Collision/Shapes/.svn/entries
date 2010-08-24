@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="355"
+   name=""
+   committed-date="2008-02-11T20:10:28.794205Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/ext/Box2D/Collision/Shapes"
+   last-author="dwallin33"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   committed-rev="355"
+   name="b2MassData.as"
+   text-time="2009-08-25T17:23:39.781250Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="a90621b86395829e344aefcbda922d8a"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.546875Z"/>
+<entry
+   committed-rev="355"
+   name="b2ShapeDef.as"
+   text-time="2009-08-25T17:23:39.781250Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="169e71e7a8fef2fbca5444abbc9ec3bb"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.546875Z"/>
+<entry
+   committed-rev="355"
+   name="b2Shape.as"
+   text-time="2009-08-25T17:23:39.796875Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="e76a859368135ffe37a8b3af85a5eadb"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.578125Z"/>
+<entry
+   committed-rev="355"
+   name="b2CircleDef.as"
+   text-time="2009-08-25T17:23:39.812500Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="d13b8bcd4a60ee38a5a63efde6064b31"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.578125Z"/>
+<entry
+   committed-rev="355"
+   name="b2PolyDef.as"
+   text-time="2009-08-25T17:23:39.828125Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="33319296866a03e3a3d243b31bfac14b"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.609375Z"/>
+<entry
+   committed-rev="355"
+   name="b2CircleShape.as"
+   text-time="2009-08-25T17:23:39.843750Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="df286cb5c3bf3116d74403dc4c7520e9"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.625000Z"/>
+<entry
+   committed-rev="355"
+   name="b2PolyShape.as"
+   text-time="2009-08-25T17:23:39.859375Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="c942a1183182a087b357c250c63b65a2"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.750000Z"/>
+<entry
+   committed-rev="355"
+   name="b2BoxDef.as"
+   text-time="2009-08-25T17:23:39.875000Z"
+   committed-date="2008-02-11T20:10:28.794205Z"
+   checksum="090f2ccc4f9ed48b483fe8769c4b9e8a"
+   last-author="dwallin33"
+   kind="file"
+   prop-time="2009-08-25T17:23:39.765625Z"/>
+</wc-entries>

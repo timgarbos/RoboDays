@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="313"
+   name=""
+   committed-date="2007-12-01T18:48:27.332965Z"
+   url="http://touchlib.googlecode.com/svn/trunk/AS3/src/deploy/www/menus"
+   last-author="naturalui"
+   kind="dir"
+   uuid="354aca26-de27-0410-a198-a53a36578689"
+   repos="http://touchlib.googlecode.com/svn"
+   revision="403"/>
+<entry
+   name="artgen"
+   kind="dir"/>
+</wc-entries>

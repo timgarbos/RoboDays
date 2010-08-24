@@ -1,0 +1,36 @@
+<presentationLoader> <presentations> 
+<slideshow name="Industrial Production">
+<slide>slide/Slide12.jpg</slide>
+<slide>slide/Slide13.jpg</slide>
+<slide>slide/Slide14.jpg</slide>
+</slideshow >
+<slideshow name="Biological Production">
+<slide>slide/Slide15.jpg</slide>
+<slide>slide/Slide16.jpg</slide>
+<slide>slide/Slide17.jpg</slide>
+<slide>slide/Slide18.jpg</slide>
+<slide>slide/Slide19.jpg</slide>
+</slideshow >
+<slideshow name="Wellfare">
+<slide>slide/Slide20.jpg</slide>
+<slide>slide/Slide21.jpg</slide>
+<slide>slide/Slide22.jpg</slide>
+<slide>slide/Slide23.jpg</slide>
+<slide>slide/Slide24.jpg</slide>
+<slide>slide/Slide25.jpg</slide>
+</slideshow >
+<slideshow name="Wellfare">
+<slide>slide/Slide20.jpg</slide>
+<slide>slide/Slide21.jpg</slide>
+<slide>slide/Slide22.jpg</slide>
+<slide>slide/Slide23.jpg</slide>
+<slide>slide/Slide24.jpg</slide>
+<slide>slide/Slide25.jpg</slide>
+</slideshow >
+<slideshow name="Edutainment">
+<slide>slide/Slide26.jpg</slide>
+<slide>slide/Slide27.jpg</slide>
+<slide>slide/Slide28.jpg</slide>
+<slide>slide/Slide29.jpg</slide>
+</slideshow >
+</presentations> </presentationLoader> 

@@ -1,0 +1,39 @@
+<!-- 	
+		Crayon Physics Multitouch Demo App.
+		Developed by http://www.multitouch-barcelona.com
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+
+	<background type="image">Canvas.jpg</background> <!-- type can be image(write a path) or color(write hex value)-->
+	
+	<physics debug="false"> <!-- if debug=true you'll have a box2d view -->
+		<gravity>false</gravity> <!-- change gravity to true when displaying on vertical screens-->
+	</physics>
+	
+	<drawing debug="false"> <!--when debug=true you'll see drawing actions traced on the screen-->
+	
+		<startSleep>true</startSleep> <!-- if false, objects have an initial impulse-->
+		<shapeClosingDistance>50</shapeClosingDistance><!-- Minimum distance to close a shape when drawing-->
+		<friction>0.2</friction>
+		<restitution>0.5</restitution>
+		<randomness>0.5</randomness>
+		<density>1</density>
+		<!--<areaScale>0.12</areaScale>-->
+		<defaultTraceWidth>16</defaultTraceWidth> 
+		
+		<colors> <!-- color array, put as many colors as you want. they will appera randomly in the screen-->
+			<color>0x00b9ff</color>
+			<color>0xec008c</color>
+			<color>0xfff200</color>
+			<color>0xbcbcbc</color>
+			
+		</colors>
+	
+	</drawing>
+
+	
+
+</config>
