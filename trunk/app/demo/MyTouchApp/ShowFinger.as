@@ -24,6 +24,7 @@
 		{
 			if(!isShowing)
 			{
+		
 			addEventListener(TouchEvent.MOUSE_MOVE, onTouchMove);
 			addEventListener(TouchEvent.MOUSE_DOWN, onTouchDown);
 			}

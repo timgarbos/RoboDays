@@ -1,10 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <apploader>
   <apps>
+  	 <app>
+	 	  <defaultX>435</defaultX>
+		  <defaultY>420</defaultY>
+	  <name>Robot Top 10</name>
+	  <url>top10.swf</url>
+	
+	</app>
+	
     <app>
       <name> Sjov </name>
-	  <defaultX>875</defaultX>
-	  <defaultY>668</defaultY>
+	 
       <url></url>
       <apps>
         <app>
@@ -131,17 +138,16 @@
       <parameter>local/howto/</parameter>
     </app>-->
 	 <app>
-	 	  <defaultX>50</defaultX>
-	  <defaultY>668</defaultY>
+	 	  
 	  <name>Kontakt</name>
 	  <url>Photo.swf</url>
 	  <parameter>local/contact/</parameter>
 	</app>
-		<app>
+		<!--<app>
 			  <defaultX>490</defaultX>
 	  <defaultY>200</defaultY>
       <name>  Behandlingsforlob  </name>
-		<!--<image>local/buttons/behandling.png</image>-->
+		
       <url>Behandling.swf</url>
       <parameter></parameter>
     </app>
@@ -165,7 +171,7 @@
 	  <defaultY>450</defaultY>
 	  <url>Photo.swf</url>
 	  <parameter>local/omProjekter/</parameter>
-	</app>
+	</app>!-->
 	
   </apps>
 </apploader>
